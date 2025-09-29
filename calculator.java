@@ -27,8 +27,7 @@ public class calculator {
         System.out.println(num1 + " - " + num2 + " = " + subtract(num1, num2));
         System.out.println(num1 + " * " + num2 + " = " + multiply(num1, num2));
         System.out.println(num1 + " / " + num2 + " = " + divide(num1, num2));
-        
+
         System.out.println(num1 + " / 0 = " + divide(num1, 0));
     }
-}
 }
